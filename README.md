@@ -22,11 +22,11 @@ This app presents a personal profile with:
 
 ## 🧱 Project Structure
 
-lib/
-├── main.dart // App entry point
-├── profile_card.dart // Reusable ProfileCard widget
-└── profile_screen.dart // Main profile screen UI
-assets/
+lib/ </br>
+├── main.dart // App entry point </br>
+├── profile_card.dart // Reusable ProfileCard widget </br>
+└── profile_screen.dart // Main profile screen UI </br>
+assets/ </br>
 └── presh.jpg // Profile photo
 
 ## 📦 Dependencies
